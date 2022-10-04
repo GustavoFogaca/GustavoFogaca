@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @GustavoFogaca
 - 👀 I am interested in going deeper into the development environment
-- 🌱 I am currently learning spring boot, javascript and VueJS
+- 🌱 I am currently learning spring boot, javascript and nodejs
 - 💞️ I'm looking to collaborate on...
 - 📫 How to reach me...
 
